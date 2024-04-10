@@ -1,0 +1,6 @@
+../drivers/src/stm32f407xx_spi_driver.c:14:6:SPI_PeripheralClockControl	16	static
+../drivers/src/stm32f407xx_spi_driver.c:61:6:SPI_Init	24	static
+../drivers/src/stm32f407xx_spi_driver.c:121:6:SPI_DeInit	16	static
+../drivers/src/stm32f407xx_spi_driver.c:140:6:SPI_Send	24	static
+../drivers/src/stm32f407xx_spi_driver.c:177:6:SPI_Read	24	static
+../drivers/src/stm32f407xx_spi_driver.c:211:9:SPI_GetFlagStatus	16	static
